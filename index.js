@@ -31,4 +31,5 @@ function logWhisper(string){
 }
 
 function sayHiToGrandma(string){
+  string = lowercase;
 }
