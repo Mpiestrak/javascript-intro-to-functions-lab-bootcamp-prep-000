@@ -29,7 +29,3 @@ function logWhisper(string){
   string = lowercase;
   console.log(lowercase);
 }
-
-function sayHiToGrandma(string){
-  string = lowercase;
-}
