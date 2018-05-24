@@ -29,4 +29,3 @@ function logWhisper(string){
   console.log(lowercase);
 }
 
-function 
