@@ -9,6 +9,5 @@ function whisper(string) {
 function logShout(string) {
   console.log()
 }
-function spyOn(string) {
-  console.log()
+function spyOn(console, log) {
 }
