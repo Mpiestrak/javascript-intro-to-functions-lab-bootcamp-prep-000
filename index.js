@@ -8,6 +8,8 @@ var mixedCase = 'Hi there!'
 mixedCase.toLowerCase() === mixedCase
 mixedCase.toUpperCase() === mixedCase
 
+var 
+
 
 function shout(string) {
   return string.toUpperCase()
@@ -29,3 +31,7 @@ function logWhisper(string){
   console.log(lowercase);
 }
 
+function sayHiToGrandma(string){
+  lowercase = string.toLowerCase()
+  string = lowercase;
+}
